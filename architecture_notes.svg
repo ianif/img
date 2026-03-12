@@ -1,0 +1,10 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
+<rect width="100%" height="100%" fill="white"/>
+<text x="40" y="80" font-size="40" font-family="Arial" fill="black">System Architecture Notes</text>
+<text x="40" y="150" font-size="24" font-family="Arial">- API Gateway</text>
+<text x="40" y="190" font-size="24" font-family="Arial">- Auth Service</text>
+<text x="40" y="230" font-size="24" font-family="Arial">- Database Cluster</text>
+<text x="40" y="270" font-size="24" font-family="Arial">- Cache Layer</text>
+<text x="40" y="310" font-size="24" font-family="Arial">- Monitoring</text>
+</svg>
